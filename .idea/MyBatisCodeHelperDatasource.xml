@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MyBatisCodeHelperDatasource">
+    <option name="projectProfile">
+      <ProjectProfile>
+        <option name="addSerializeUid" value="true" />
+        <option name="javaMapperPackage" value="com.usian.mapper" />
+        <option name="javaMapperPath" value="D:\shixun\springboot_lianxi\src\main\java" />
+        <option name="javaModelPackage" value="com.usian.pojo" />
+        <option name="javaModelPath" value="D:\shixun\springboot_lianxi\src\main\java" />
+        <option name="lastDatabaseCrudChooseModuleName" value="springboot_lianxi" />
+        <option name="lombokDataAnnotation" value="true" />
+        <option name="lombokNoArgsConstructor" value="true" />
+        <option name="modelAddToString" value="true" />
+        <option name="moduleNameToPackageAndPathMap">
+          <map>
+            <entry key="springboot_lianxi">
+              <value>
+                <UserPackageAndPathInfoByModule>
+                  <option name="javaMapperPackage" value="com.usian.mapper" />
+                  <option name="javaMapperPath" value="D:\shixun\springboot_lianxi\src\main\java" />
+                  <option name="javaModelPacakge" value="com.usian.pojo" />
+                  <option name="javaModelPath" value="D:\shixun\springboot_lianxi\src\main\java" />
+                  <option name="xmlPackage" value="com.usian.service" />
+                  <option name="xmlPath" value="D:\shixun\springboot_lianxi\src\main\resources" />
+                </UserPackageAndPathInfoByModule>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="tableGenerateConfigs">
+          <map>
+            <entry key="springboot:users">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="id" />
+                  <option name="javaModelName" value="Users" />
+                  <option name="moduleName" value="springboot_lianxi" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="useCommonMapper" value="true" />
+        <option name="xmlMapperPackage" value="com.usian.service" />
+        <option name="xmlMapperPath" value="D:\shixun\springboot_lianxi\src\main\resources" />
+      </ProjectProfile>
+    </option>
+  </component>
+</project>
